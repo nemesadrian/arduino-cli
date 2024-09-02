@@ -2091,7 +2091,7 @@ msgstr "設定一個值"
 msgid ""
 "Sets the default data directory (Arduino CLI will look for configuration "
 "file in this directory)."
-msgstr ""
+msgstr "指定資料目錄  (Arduino CLI 會在此找尋設定檔)。"
 
 #: internal/cli/board/attach.go:37
 msgid ""
